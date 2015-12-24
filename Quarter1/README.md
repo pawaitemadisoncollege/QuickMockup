@@ -1,5 +1,7 @@
-### Quarter1 Outline
-### Week 1
+[<<Main Navigation](https://github.com/bciancio/QuickMockup/blob/master/README.md#quickmockup)
+
+## Quarter1 Outline:
+#### Week 1
 * Review a minimum of 2 [Git/GitHub](#github) Resources
 * Practice with Git
 * Clone the practice-repo to your computer or external hd
@@ -8,38 +10,38 @@
 * Add at least 2 professional development or volunteer opportunities to the list of Extracurricular Activities found in the course-admin repository. If the Extracurricular Activities list does not exist when you pull in the latest version, create it!
 * Begin thinking about your individual and team projects.
 
-### Week 2
+#### Week 2
 
 1. IntelliJ
 1. Git
 1. Testing with jUnit
 
-#### Homework
+##### Homework
 
 * Complete all exercises from Week 2 if not completed in class.
 * Read the [Git and IntelliJ Integration article](#intellij-idea).
 * Read the [jUnit Tutorial on Tutorialspoint.com](#jUnit)
 * Read the [IntelliJ testing article](#intellij-idea)
 
-### Week 3
+#### Week 3
 
 1. Testing 
 1. Code coverage
 1. Security/Authentication
 
-#### Homework
+##### Homework
 
 * Post your proposed problem statement and project plan (detailed schedule for your project) for your individual project in your GitHub repository and send your instructor a link to the repository for review. 
 * Read/watch the [Unit Testing Resources](#unit-testing) 
 * Read the [More Servlets and JSPs Security Resources](#security)
 * Complete all Week 3 Exercises
 
-### Week 4
+#### Week 4
 
 1. Security/Authentication
 1. Logging
 
-#### Homework
+##### Homework
 
 * Read the [Tomcat Realm Resource](#security)
 * Read the [JAAS Resources](#security)
@@ -48,7 +50,7 @@
 * Post your weekly individual project journal/blog/wiki
 
 
-#### Quarter 1 Videos
+## Quarter 1 Videos
 * General Videos
     * [Git at the Command Line](https://youtu.be/FPwbglGBGaI)
     * [Setting up Tomcat](https://youtu.be/QhG8FbmbH4w)
