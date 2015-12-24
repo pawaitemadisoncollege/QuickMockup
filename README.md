@@ -6,23 +6,21 @@
 *  **construction** [QuarterTwo]() - Weeks 5-8 (Date-Range)
 *  **construction** [QuarterThree]() - Weeks 9-12 (Date-Range)
 *  **construction** [QuarterFour]() - Weeks 13-16 (Date-Range)
-* **construction** [ScheduleQuarterReview](https://github.com/bciancio/QuickMockup#semester-quarters) 
- * Google Calendar link for current semester. (optional sign-up for first two quarters)
+* **construction** [ScheduleQuarterReview](https://github.com/bciancio/QuickMockup#semester-quarters) (A Google Calendar Link - for current quarter.)
+ * (optional sign-up for first two quarters)
 
 ### ExtraCurricular Activities
 * [ExtraCurricular Activities](https://github.com/bciancio/QuickMockup/tree/master/ExtracurricularActivities)
 * [ListOfFun](https://github.com/bciancio/QuickMockup/blob/master/ExtracurricularActivities/ListOfFun.md)
 * [Presentation Reviews](https://github.com/bciancio/QuickMockup/tree/master/ExtracurricularActivities/AllReviews)
-* **construction** [SchedulePresentation](https://github.com/bciancio/QuickMockup#extracurricular-activities) 
- * Google Calendar link for current semester.
+* **construction** [SchedulePresentation](https://github.com/bciancio/QuickMockup#extracurricular-activities) (A Google Calendar Link)
  
 ### Group Project
 * [Group Project](https://github.com/bciancio/QuickMockup/tree/master/GroupProject)
 
 ### Individual Project
 * [Individual Project](https://github.com/bciancio/QuickMockup/tree/master/IndividualProject#individualproject)
-* **construction** [SchedulePresentation](https://github.com/bciancio/QuickMockup#individual-project) 
- * Google Calendar link for current semester.
+* **construction** [SchedulePresentation](https://github.com/bciancio/QuickMockup#individual-project) (A Google Calendar Link)
  
 ### Syllabus
 * [aSyllabus](https://github.com/MadJavaEnterpriseFallEve2015/syllabus/blob/master/README.md#enterprise-java-syllabus)
