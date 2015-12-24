@@ -23,4 +23,4 @@
 * **construction** [SchedulePresentation](https://github.com/bciancio/QuickMockup#individual-project) (Google Calendar Link)
  
 ### Syllabus
-* [aSyllabus](https://github.com/MadJavaEnterpriseFallEve2015/syllabus/blob/master/README.md#enterprise-java-syllabus)
+* [Last Years Syllabus](https://github.com/MadJavaEnterpriseFallEve2015/syllabus/blob/master/README.md#enterprise-java-syllabus)
