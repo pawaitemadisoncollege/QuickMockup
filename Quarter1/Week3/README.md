@@ -7,4 +7,9 @@
 
 ## Stuff Below
 
+##### Homework
 
+* Post your proposed problem statement and project plan (detailed schedule for your project) for your individual project in your GitHub repository and send your instructor a link to the repository for review. 
+* Read/watch the [Unit Testing Resources](#unit-testing) 
+* Read the [More Servlets and JSPs Security Resources](#security)
+* Complete all Week 3 Exercises
