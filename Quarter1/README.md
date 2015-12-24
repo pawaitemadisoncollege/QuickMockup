@@ -38,7 +38,7 @@
 * Read the [More Servlets and JSPs Security Resources](#security)
 * Complete all Week 3 Exercises
 
-#### Week 4
+#### [Week 4](https://github.com/MadJavaEnterpriseFallEve2015/Week4#week-4)
 
 1. Security/Authentication
 1. Logging
