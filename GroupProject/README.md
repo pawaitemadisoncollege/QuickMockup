@@ -1,7 +1,6 @@
-[<-- Main Navigation](https://github.com/bciancio/QuickMockup/blob/master/README.md#quickmockup)
+[<<Main Navigation](https://github.com/bciancio/QuickMockup/blob/master/README.md#quickmockup)
 
-### Purpose
-All information about GroupProject is here.
+### GroupProject
 
 The Team Enterprise Java Project is designed to simulate a real world project in which team members contribute to a single software product. The product must be a significant web service or reusable library that could be used in the Individual Projects for this course. This means the consumers of the service or library will include developers outside of the project team. Upon completion, this project will be an important part of the student’s portfolio to be shared with potential employers.   
 
