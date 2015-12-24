@@ -13,12 +13,16 @@
 * [ExtraCurricular Activities](https://github.com/bciancio/QuickMockup/tree/master/ExtracurricularActivities)
 * [ListOfFun](https://github.com/bciancio/QuickMockup/blob/master/ExtracurricularActivities/ListOfFun.md)
 * [Presentation Reviews](https://github.com/bciancio/QuickMockup/tree/master/ExtracurricularActivities/AllReviews)
-
+* **construction** [SchedulePresentation](https://github.com/bciancio/QuickMockup#extracurricular-activities) 
+ * Google Calendar link for current semester.
+ 
 ### Group Project
 * [Group Project](https://github.com/bciancio/QuickMockup/tree/master/GroupProject)
 
 ### Individual Project
 * [Individual Project](https://github.com/bciancio/QuickMockup/tree/master/IndividualProject#individualproject)
-
+* **construction** [SchedulePresentation](https://github.com/bciancio/QuickMockup#individual-project) 
+ * Google Calendar link for current semester.
+ 
 ### Syllabus
 * [aSyllabus](https://github.com/MadJavaEnterpriseFallEve2015/syllabus/blob/master/README.md#enterprise-java-syllabus)
