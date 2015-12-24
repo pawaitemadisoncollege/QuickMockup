@@ -21,3 +21,6 @@ I felt we lacked a 'landing page' or a home page. Where we go to and are able to
 
 ### Group Project
 * []()
+
+### Individual Project
+* [Individual Project](https://github.com/bciancio/QuickMockup/tree/master/IndividualProject#individualproject)
