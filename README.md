@@ -2,6 +2,8 @@
 
 ### Semester 'Quarters'
 * [QuarterOne](https://github.com/bciancio/QuickMockup/tree/master/Quarter1) - Weeks 1-4 (date range)
+  * [Outline](https://github.com/bciancio/QuickMockup/tree/master/Quarter1#outline)
+  * [Videos](https://github.com/bciancio/QuickMockup/tree/master/Quarter1#videos)
 *  **No Example** [QuarterTwo]() - Weeks 5-8 (date range)
 *  **No Example** [QuarterThree]() - Weeks 9-12 (date range)
 *  **No Example** [QuarterFour]() - Weeks 13-16 (date range)
