@@ -3,7 +3,7 @@
 ## Quarter1
 
 ## Outline:
-#### [Week 1](https://github.com/bciancio/QuickMockup/tree/master/Quarter1/Week1)
+#### [Week 1](https://github.com/bciancio/QuickMockup/tree/master/Quarter1/Week1#week-1)
 * Review a minimum of 2 [Git/GitHub](#github) Resources
 * Practice with Git
 * Clone the practice-repo to your computer or external hd
@@ -12,7 +12,7 @@
 * Add at least 2 professional development or volunteer opportunities to the list of Extracurricular Activities found in the course-admin repository. If the Extracurricular Activities list does not exist when you pull in the latest version, create it!
 * Begin thinking about your individual and team projects.
 
-#### [Week 2](https://github.com/bciancio/QuickMockup/tree/master/Quarter1/Week2)
+#### [Week 2](https://github.com/bciancio/QuickMockup/blob/master/Quarter1/Week2/README.md#week-2)
 
 1. IntelliJ
 1. Git
@@ -25,7 +25,7 @@
 * Read the [jUnit Tutorial on Tutorialspoint.com](#jUnit)
 * Read the [IntelliJ testing article](#intellij-idea)
 
-#### [Week 3](https://github.com/bciancio/QuickMockup/tree/master/Quarter1/Week3)
+#### [Week 3](https://github.com/bciancio/QuickMockup/blob/master/Quarter1/Week3/README.md#week-3)
 
 1. Testing 
 1. Code coverage
