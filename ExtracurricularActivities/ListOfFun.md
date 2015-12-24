@@ -1,6 +1,6 @@
-#Extracurricular Activities
+[<<Main Navigation](https://github.com/bciancio/QuickMockup) [ExtracurricularActivities](https://github.com/bciancio/QuickMockup/tree/master/ExtracurricularActivities)
 
----
+#Extracurricular Activities
 
 ### Professional Development Opportunities
 - [NSCoder Madison](http://www.meetup.com/nscoder/)
