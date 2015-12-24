@@ -9,7 +9,6 @@
 
 * **construction**[ScheduleQuarterReview](https://github.com/bciancio/QuickMockup#semester-quarters) -- Google Calendar link for current semester.
 
-
 ### ExtraCurricular Activities
 * [ExtraCurricular Activities](https://github.com/bciancio/QuickMockup/tree/master/ExtracurricularActivities)
 * [ListOfFun](https://github.com/bciancio/QuickMockup/blob/master/ExtracurricularActivities/ListOfFun.md)
