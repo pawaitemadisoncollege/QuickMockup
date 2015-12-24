@@ -9,7 +9,7 @@
 *  **No Example** [QuarterFour]() - Weeks 13-16 (Date-Range)
 
 ### ExtraCurricular Activities
-* []()
+* [ExtraCurricular Activities](https://github.com/bciancio/QuickMockup/tree/master/ExtracurricularActivities)
 
 ### Group Project
 * [Group Project](https://github.com/bciancio/QuickMockup/tree/master/GroupProject)
