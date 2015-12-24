@@ -1,4 +1,4 @@
-[<<Main Navigation](https://github.com/bciancio/QuickMockup) [ExtracurricularActivities](https://github.com/bciancio/QuickMockup/tree/master/ExtracurricularActivities)
+[<<Main Navigation](https://github.com/bciancio/QuickMockup) [<<ExtracurricularActivities](https://github.com/bciancio/QuickMockup/tree/master/ExtracurricularActivities)
 
 #Extracurricular Activities
 
