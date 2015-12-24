@@ -18,39 +18,16 @@
 1. Git
 1. Testing with jUnit
 
-##### Homework
-
-* Complete all exercises from Week 2 if not completed in class.
-* Read the [Git and IntelliJ Integration article](#intellij-idea).
-* Read the [jUnit Tutorial on Tutorialspoint.com](#jUnit)
-* Read the [IntelliJ testing article](#intellij-idea)
-
 #### [Week 3](https://github.com/bciancio/QuickMockup/blob/master/Quarter1/Week3/README.md#week-3)
 
 1. Testing 
 1. Code coverage
 1. Security/Authentication
 
-##### Homework
-
-* Post your proposed problem statement and project plan (detailed schedule for your project) for your individual project in your GitHub repository and send your instructor a link to the repository for review. 
-* Read/watch the [Unit Testing Resources](#unit-testing) 
-* Read the [More Servlets and JSPs Security Resources](#security)
-* Complete all Week 3 Exercises
-
 #### [Week 4](https://github.com/MadJavaEnterpriseFallEve2015/Week4#week-4)
 
 1. Security/Authentication
 1. Logging
-
-##### Homework
-
-* Read the [Tomcat Realm Resource](#security)
-* Read the [JAAS Resources](#security)
-* Read the [Logging Resources](#logging)
-* Complete all Week 4 Exercises
-* Post your weekly individual project journal/blog/wiki
-
 
 ## Videos
 * General Videos
