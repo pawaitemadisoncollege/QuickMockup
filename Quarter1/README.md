@@ -1,6 +1,8 @@
 [<<Main Navigation](https://github.com/bciancio/QuickMockup/blob/master/README.md#quickmockup)
 
-## Quarter1 Outline:
+## Quarter1
+
+## Outline:
 #### Week 1
 * Review a minimum of 2 [Git/GitHub](#github) Resources
 * Practice with Git
@@ -50,7 +52,7 @@
 * Post your weekly individual project journal/blog/wiki
 
 
-## Quarter 1 Videos
+## Videos
 * General Videos
     * [Git at the Command Line](https://youtu.be/FPwbglGBGaI)
     * [Setting up Tomcat](https://youtu.be/QhG8FbmbH4w)
