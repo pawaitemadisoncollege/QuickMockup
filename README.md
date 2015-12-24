@@ -6,8 +6,8 @@
 *  **construction** [QuarterTwo]() - Weeks 5-8 (Date-Range)
 *  **construction** [QuarterThree]() - Weeks 9-12 (Date-Range)
 *  **construction** [QuarterFour]() - Weeks 13-16 (Date-Range)
-* **construction**[ScheduleQuarterReview](https://github.com/bciancio/QuickMockup#semester-quarters) 
- * Google Calendar link for current semester.
+* **construction** [ScheduleQuarterReview](https://github.com/bciancio/QuickMockup#semester-quarters) 
+ * Google Calendar link for current semester. (optional sign-up for first two quarters)
 
 ### ExtraCurricular Activities
 * [ExtraCurricular Activities](https://github.com/bciancio/QuickMockup/tree/master/ExtracurricularActivities)
