@@ -26,7 +26,7 @@
 * [Syllabus](https://github.com/MadJavaEnterpriseFallEve2015/syllabus/blob/master/README.md#enterprise-java-syllabus) Fall-2015 
 
 ```
-Homepage: Git link here: https://github.com/bciancio/QuickMockup
+    Homepage: 
 	- Purpose of this page is to be act as a sample 'home page'
 	
 	Thoughts on 'Semester 'Quarters' 
@@ -65,6 +65,6 @@ Homepage: Git link here: https://github.com/bciancio/QuickMockup
 		
 	Thoughts on 'Syllabus'
 		- just a syllabus. 
-		```
+```
 
 
