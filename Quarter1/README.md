@@ -1,4 +1,4 @@
-
+### Quarter1 Outline
 ### Week 1
 * Review a minimum of 2 [Git/GitHub](#github) Resources
 * Practice with Git
