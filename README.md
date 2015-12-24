@@ -3,6 +3,7 @@
 ### Semester 'Quarters'
 * [QuarterOne](https://github.com/bciancio/QuickMockup/tree/master/Quarter1#quickNavQuarter1) - Weeks 1-4 (Date-Range)
   * [Videos](https://github.com/bciancio/QuickMockup/tree/master/Quarter1#videos)
+  * Resources Link?
 *  **construction** [QuarterTwo]() - Weeks 5-8 (Date-Range)
 *  **construction** [QuarterThree]() - Weeks 9-12 (Date-Range)
 *  **construction** [QuarterFour]() - Weeks 13-16 (Date-Range)
