@@ -20,7 +20,6 @@
 
 ### Individual Project
 * [Individual Project](https://github.com/bciancio/QuickMockup/tree/master/IndividualProject#individualproject)
-* Peer-Review Checkoff sheet.
 * **construction** [SchedulePresentation](https://github.com/bciancio/QuickMockup#individual-project) (Google Calendar Link)
  
 ### Syllabus
