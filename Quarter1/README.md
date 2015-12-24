@@ -53,3 +53,11 @@
     * [Part 3](https://youtu.be/mW5a5brmmnA)
     * [Find and Replace Unit Testing Demo Part 1](https://youtu.be/NeVMaTmsWw4)
     * [Find and Replace Unit Testing Demo Part 2 - Code Coverage](https://youtu.be/Q0uQMzhj1fM)
+
+* Week 4 Videos
+    * [Week 4 Intro](https://youtu.be/uJmskQhNW2Q)
+    * [Form-based Auth Part 1](https://youtu.be/gf3qR5ALia4)
+    * [Form-based Auth Part 2](https://youtu.be/uOrO9mDw3jE)
+    * [Log4J Part 1](https://youtu.be/WFAJkDhbc_o)
+    * [Log4J Part 2](https://youtu.be/4lZrfFBjqc4)
+    * [Form-based Auth with JDBC](https://youtu.be/t1iqJldxeiM)
