@@ -1,4 +1,4 @@
-[<<Main Navigation](https://github.com/bciancio/QuickMockup/blob/master/README.md#quickmockup)
+[<<Main Navigation](https://github.com/bciancio/QuickMockup)
 
 ### GroupProject
 
