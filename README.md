@@ -10,7 +10,7 @@
 
 ### ExtraCurricular Activities
 * [ExtraCurricular Activities](https://github.com/bciancio/QuickMockup/tree/master/ExtracurricularActivities)
-
+* [ListOfFun](https://github.com/bciancio/QuickMockup/blob/master/ExtracurricularActivities/ListOfFun.md)
 ### Group Project
 * [Group Project](https://github.com/bciancio/QuickMockup/tree/master/GroupProject)
 
